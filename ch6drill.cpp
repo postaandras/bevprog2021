@@ -12,9 +12,9 @@
 		Quit
 		Calculation Statement
 	Print:
-		;
+		=
 	Quit:
-		q
+		x
 	Statement:
 		Declaration
 		Expression
