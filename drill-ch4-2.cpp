@@ -1,8 +1,4 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-#include <sstream>
-#include <algorithm>
+#include "std_lib_facilities.h"
 
 int
 main ()
